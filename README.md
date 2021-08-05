@@ -1,7 +1,7 @@
 # 18CSMP68_Program_3A
 
 
-<h1>Create a SIGN Up activity with Username and Password. Validation of password should
+<h2>Create a SIGN Up activity with Username and Password. Validation of password should
 happen based on the following rules:
     Password should contain uppercase and lowercase letters.
     Password should contain letters and numbers.
@@ -13,4 +13,4 @@ Password are matched then navigate to the next activity whichdisplays a message 
 “Successful Login” or else display a toast message saying “Login Failed”.The user is
 given only two attempts and after thatdisplay a toast message saying “Failed Login
 Attempts” and disable the SIGN IN button. Use Bundle to transfer information from one
-activity to another.</h1>
+activity to another.</h2>

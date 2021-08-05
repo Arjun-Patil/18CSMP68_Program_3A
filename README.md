@@ -3,12 +3,10 @@
 
 <h2>Create a SIGN Up activity with Username and Password. Validation of password should
 happen based on the following rules:</h2>
-<ul>
-    <l1>Password should contain uppercase and lowercase letters.</li>
-    <l1>Password should contain letters and numbers.</li>
-    <l1>Password should contain special characters.</li>
-    <l1>Minimum length of the password (the default value is 8).</li>
-</ul>
+    Password should contain uppercase and lowercase letters.
+    Password should contain letters and numbers.
+    Password should contain special characters.
+    Minimum length of the password (the default value is 8).</li>
 <h2> On successful SIGN UP proceed to the next Login activity. Here the user should SIGN
 IN using the Username and Password created during signup activity. If the Username and
 Password are matched then navigate to the next activity whichdisplays a message saying
